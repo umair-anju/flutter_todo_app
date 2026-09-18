@@ -63,4 +63,4 @@ Flutter Developer
 
 ## 📄 License
 
-This project is created for learning and development purposes.
+This project is created for learning and development purposes for beginner.
